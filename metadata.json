@@ -1,0 +1,9 @@
+{
+    "uuid": "FileSort@austin.tinius.me",
+    "name": "FileSort",
+    "description": "Sorts files based on user-defined rules",
+    "version": 1,
+    "shell-version": ["47"],
+    "settings-schema": "org.gnome.shell.extensions.FileSort",
+    "js-modules": ["extension.js", "prefs.js"]
+}
