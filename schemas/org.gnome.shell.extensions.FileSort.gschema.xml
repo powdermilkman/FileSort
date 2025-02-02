@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.filesort" path="/org/gnome/shell/extensions/filesort/">
+        <key name="sorting-rules" type="as">
+            <default>['images:jpg,png', 'videos:mp4,mkv', 'documents:docx,pdf']</default>
+            <summary>Sorting Rules</summary>
+            <description>Rules to sort files, e.g. ['images:jpg,png', 'videos:mp4,mkv']</description>
+        </key>
+    </schema>
+</schemalist>
+
